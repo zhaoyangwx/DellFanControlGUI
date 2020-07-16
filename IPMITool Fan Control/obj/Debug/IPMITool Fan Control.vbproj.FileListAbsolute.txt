@@ -1,0 +1,11 @@
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\bin\Debug\IPMITool Fan Control.exe.config
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\bin\Debug\IPMITool Fan Control.exe
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\bin\Debug\IPMITool Fan Control.pdb
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\bin\Debug\IPMITool Fan Control.xml
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool Fan Control.vbprojAssemblyReference.cache
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool_Fan_Control.Form1.resources
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool_Fan_Control.Resources.resources
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool Fan Control.vbproj.GenerateResource.cache
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool Fan Control.exe
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool Fan Control.xml
+C:\Users\HPCAdmin\source\repos\IPMITool Fan Control\IPMITool Fan Control\obj\Debug\IPMITool Fan Control.pdb

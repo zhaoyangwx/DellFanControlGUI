@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IPMITool Fan Control", "IPMITool Fan Control\IPMITool Fan Control.vbproj", "{2DEE5D50-5A65-4350-9C13-9734BC289BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DEE5D50-5A65-4350-9C13-9734BC289BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEE5D50-5A65-4350-9C13-9734BC289BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEE5D50-5A65-4350-9C13-9734BC289BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEE5D50-5A65-4350-9C13-9734BC289BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE35C7C8-6E62-408E-9C07-F1C5501F50B5}
+	EndGlobalSection
+EndGlobal
